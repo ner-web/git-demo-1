@@ -20,3 +20,5 @@
 ```javascript
 console.log(hello)
 ```
+
+![一张图片](2.png)
